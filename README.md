@@ -18,21 +18,4 @@ MyStore is a modern and clean e-commerce Flutter application built with a layere
 📦 SVG Asset Support
 
 
-lib/
-│
-├── di/                     # Dependency injection setup (get_it)
-├── router/                 # App routing configuration (auto_route)
-├── src/
-│   ├── core/               # Constants, Enums, Helpers, Theme
-│   ├── features/
-│   │   ├── product/
-│   │   │   ├── data/       # API calls, models, repository
-│   │   │   ├── domain/     # Entities and repository contract
-│   │   │   └── presentation/
-│   │   │       └── bloc/   # ProductBloc with states/events
-│   │   ├── category/
-│   │   └── favourite/
-│   └── widgets/            # Reusable UI components
-
-
 
