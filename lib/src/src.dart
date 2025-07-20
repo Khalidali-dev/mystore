@@ -1,0 +1,13 @@
+export 'package:flutter/material.dart';
+export 'package:flutter/gestures.dart';
+export 'package:flutter/services.dart';
+export 'package:flutter_svg/svg.dart';
+export 'dart:io';
+export './cores/cores.dart';
+export './features/features.dart';
+export 'package:freezed_annotation/freezed_annotation.dart';
+export 'package:dio/dio.dart';
+export 'package:google_fonts/google_fonts.dart';
+export 'package:flutter/foundation.dart';
+export 'package:flutter_bloc/flutter_bloc.dart';
+export 'package:cached_network_image/cached_network_image.dart';
